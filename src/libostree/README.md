@@ -79,3 +79,4 @@ Compression
 xdelta: http://xdelta.org/
 Bsdiff: http://www.daemonology.net/bsdiff/
 xz: http://tukaani.org/xz/
+courgette: http://neugierig.org/software/chromium/notes/2009/05/courgette.html, https://src.chromium.org/viewvc/chrome/trunk/src/courgette/
